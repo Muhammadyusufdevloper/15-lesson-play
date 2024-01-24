@@ -112,7 +112,7 @@ nav{
     color: #000;
 }
 .light .nav__link:hover {
-    color: #FAC422;
+    color: #FAC422!important;
 }
 .light #header *,
 .light #hero *,
